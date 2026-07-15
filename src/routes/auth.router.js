@@ -1,3 +1,6 @@
 import express from 'express';
 
-c
+const authRouter = express.Router();
+
+
+export default authRouter;
