@@ -8,6 +8,9 @@ dns.setServers(["8.8.8.8", "8.8.4.4", "1.1.1.1","0.0.0.0"]);
 import dotenv from "dotenv";
 dotenv.config();
 
+
+
+
 const PORT = process.env.PORT || 3001;
 
 
